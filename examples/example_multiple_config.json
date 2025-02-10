@@ -1,0 +1,22 @@
+{
+    "accounts": [
+      {
+        "username": "Account1",
+        "robloxCookie": "cookie1",
+        "pulseInterval": 30000,
+        "enableLogging": true
+      },
+       
+      {
+        "username": "Account2",
+        "robloxCookie": "cookie2",
+        "pulseInterval": 40000,
+        "enableLogging": true
+      }
+      
+    ],
+    "globalConfig": {
+      "retryAttempts": 3,
+      "retryDelay": 5000
+    }
+  }
