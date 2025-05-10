@@ -1,6 +1,6 @@
 {
   "name": "roblox-pulse-sender",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple script to appear online in Roblox for preventing Tools like 'AgentBlox Bot', spying on you.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,11 @@
   "dependencies": {
     "axios": "^1.7.9",
     "chalk": "^3.0.0",
+    "express": "^5.1.0",
     "fs": "^0.0.1-security",
-    "moment": "^2.30.1"
+    "http": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "path": "^0.12.7"
   },
   "repository": {
     "type": "git",

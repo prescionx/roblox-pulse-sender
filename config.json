@@ -1,14 +1,14 @@
 {
-    "accounts": [
-      {
-        "username": "Account1",
-        "robloxCookie": "cookie1",
-        "pulseInterval": 30000,
-        "enableLogging": true
-      }
-    ],
-    "globalConfig": {
-      "retryAttempts": 3,
-      "retryDelay": 5000
+  "accounts": [
+    {
+      "username": "Account1",
+      "robloxCookie": "cookie1",
+      "pulseInterval": 30000,
+      "enableLogging": true
     }
+  ],
+  "globalConfig": {
+    "retryAttempts": 3,
+    "retryDelay": 5000
   }
+}
